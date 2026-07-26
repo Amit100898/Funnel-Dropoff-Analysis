@@ -1,0 +1,6 @@
+Stage,Users,Conversion Rate (%),Drop-off Users
+visited_site,200,100.0,0
+signup_started,150,75.0,50
+details_filled,96,64.0,54
+email_verified,52,54.17,44
+purchase_completed,44,84.62,8
